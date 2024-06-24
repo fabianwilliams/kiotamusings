@@ -42,5 +42,6 @@ kiota search graph
 | apisguru::microsoft.com:graph-beta            | OData Service for namespace microsoft.graph | This OData service is located at https://graph.microsoft.com/beta | 1.0.1    |
 | apisguru::windows.net:graphrbac               | The Graph RBAC Management Client           |                                                        |          |
 
+```
 ![Search for Graph](./images/searchforgraph.jpg)
 
